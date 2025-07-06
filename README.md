@@ -20,7 +20,7 @@ A responsive and modern landing page for an eLearning platform built using HTML,
 ## 🖼️ Demo
 
 Check out the live demo:  
-[🔗 Live Site](http://127.0.0.1:5500/index.html)
+[🔗 Live Site](https://github.com/lavanya-goyal-6378/landing-page)
 
 ## 📸 Screenshot
 
