@@ -22,6 +22,10 @@ A responsive and modern landing page for an eLearning platform built using HTML,
 Check out the live demo:  
 [🔗 Live Site](http://127.0.0.1:5500/index.html)
 
+## 📸 Screenshot
+
+![Website Screenshot](Screenshot 2025-07-06 141517.png)
+
 ---
 # 🛠️ Technologies Used
 
